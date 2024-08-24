@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shambat5540
-- 👀 I’m learning devlelopment as I work in a support function to the devs
+- 👀 I’m learning devlelopment as I work in an auxiliary function to the dev team
 - 🌱 I’m currently learning terraform,terragrunt and python
 - 💞️ I’m looking to collaborate on aws modules
 
